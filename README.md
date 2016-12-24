@@ -15,4 +15,6 @@ Basic jQuery Example using [RawGit.com](https://rawgit.com):
         // Do something with the hymns
         console.log(hymns);
       }
-)
+    )
+
+This is a JSBin example that leverages RawGit: http://output.jsbin.com/xopode
